@@ -1,0 +1,24 @@
+link to my prsentation:
+https://docs.google.com/presentation/d/1_DWmfalI2kh9IDFWhxzqPCwt3a_nR2pTrWMi-KcjzQM/edit?usp=sharing
+
+
+grafana cloud dashboards:
+
+open nebula waiting times - 7 days - raw data + forecast
+https://snapshots.raintank.io/dashboard/snapshot/jeM0K84BTMQr1s1TNxvpX035CHVLQx37
+
+open nebula waiting times - 12 days - average by 10 minutes / max per 10 minutes + forecast
+https://snapshots.raintank.io/dashboard/snapshot/jeM0K84BTMQr1s1TNxvpX035CHVLQx37
+
+
+count of coin integrations grouped by 1 hour + forecast
+https://snapshots.raintank.io/dashboard/snapshot/ThOo2TWCZsC4YVHW73syeJfFG404mYD3
+
+count of coin integrations grouped by 1 day + foerecast:
+https://snapshots.raintank.io/dashboard/snapshot/ozkg2UfeGNGwaJ1bBndqBhHvQz4ctM2Q
+
+grafana webinar on ML:
+https://grafana.com/go/webinar/grafana-machine-learning-adaptive-alerting/?src=email&cnt=webinar-confirmation&camp=webinar-grafana-machine-learning-adaptive-alerting
+
+prophet:
+https://facebook.github.io/prophet/
